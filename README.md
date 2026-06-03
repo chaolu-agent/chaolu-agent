@@ -1,16 +1,24 @@
-## Hi there 👋
+# Chao Lu
 
-<!--
-**chaolu-agent/chaolu-agent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational scientist specializing in molecular simulation, free energy methods, force field development, and scientific machine learning.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Molecular simulation
+- Free energy prediction (FEP)
+- Force field development
+- Scientific machine learning
+- Reliability and uncertainty analysis
+- AI-driven molecular modeling
+
+## Selected Contributions
+
+- First author of OPLS4 force field
+- Principal contributor to ByteFEP platform
+- Developer of regime-aware ADMET reliability framework
+
+## Current Interests
+
+- Extrapolation and uncertainty in scientific ML
+- AI-generated molecular dynamics
+- Reliability-aware molecular prediction systems
